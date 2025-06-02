@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <style>
+    path, rect { fill: #3B82F6; }
+    @media (prefers-color-scheme: dark) {
+      path, rect { fill: #60A5FA; }
+    }
+  </style>
+  <rect x="2" y="2" width="28" height="28" rx="4" fill="#3B82F6" />
+  <path d="M6 8 L16 8 L16 12 L6 12 Z" fill="white" />
+  <path d="M18 8 L26 8 L26 12 L18 12 Z" fill="white" />
+  <path d="M6 14 L10 14 L10 24 L6 24 Z" fill="white" />
+  <path d="M12 14 L26 14 L26 18 L12 18 Z" fill="white" />
+  <path d="M18 20 L26 20 L26 24 L18 24 Z" fill="white" />
+</svg> 
