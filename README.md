@@ -6,7 +6,9 @@
 
 사용자 편의를 위해 심플한 인터페이스, 작업 기록, 클립보드 내용 기반 도구 제안, 다크 모드/라이트 모드 테마 전환 등의 기능을 지원합니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/ConvertFormat/
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/ConvertFormat/)
 
 ## 주요 기능
 
